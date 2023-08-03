@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(9, 9, 9);
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+header > h1 {
+    color : yellow ;
+    border: 2px solid white;
+    box-shadow: 2px 2px 4px white;
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    text-align: center;
+}
+a{
+    color: white;
+}
+h5{
+    color : rgb(254, 254, 253) ;
+    border: 2px solid rgb(240, 227, 77);
+    box-shadow: 2px 2px 4px rgb(245, 222, 71); 
+    width: 150px;
+    height: 35px;
+    border-radius: 5px;
+    text-align: center;
+}
